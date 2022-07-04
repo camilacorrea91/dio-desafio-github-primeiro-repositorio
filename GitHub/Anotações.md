@@ -39,3 +39,7 @@ git config --global user.email <Seu email aqui>
 #### `git add .`
 - Adiciona modificações ou inclusões do arquivo no diretório local, preparando ele para ser entregue ao servidor remoto para a mesma aplicação que está sincronizada na máquina local.
 ##
+#### `git commit -m "comentario"`
+- Utilizado após o git add, serve oara realizar um comentário em uma modificação ou inclusão feita.
+- A flag -m indica que vamos adicionar uma mensagem para aquele commit.
+##
