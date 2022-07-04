@@ -29,7 +29,6 @@ git config --global user.email <Seu email aqui>
 - Ele pode ser usado para converter um projeto existente e não versionado em um repositório do Git ou inicializar um novo repositório vazio.
 ##
 #### `git status`
-- Permite inspecionar quais alterações foram despreparadas, quais não foram e quais arquivos não estão sendo monitorados pelo Git.
 - Comando utilizado para obter um resumo de quais arquivos têm alterações que são preparadas para o próximo commit.
 ##
 
@@ -40,6 +39,6 @@ git config --global user.email <Seu email aqui>
 - Adiciona modificações ou inclusões do arquivo no diretório local, preparando ele para ser entregue ao servidor remoto para a mesma aplicação que está sincronizada na máquina local.
 ##
 #### `git commit -m "comentario"`
-- Utilizado após o git add, serve oara realizar um comentário em uma modificação ou inclusão feita.
+- Utilizado após o git add, serve para realizar um comentário em uma modificação ou inclusão feita.
 - A flag -m indica que vamos adicionar uma mensagem para aquele commit.
 ##
