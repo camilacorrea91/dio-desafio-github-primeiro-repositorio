@@ -1,7 +1,7 @@
 # Instalando o <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white"/>
 - [Link com os downloads](https://git-scm.com/downloads)
 
-## Comandos do <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
+## Alguns comandos mais utilizados do <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
 
 #### Configurar o Git:
 - `git config`  é a função conveniente usada para definir valores de configuração do Git em projetos de nível global ou local.
@@ -42,3 +42,8 @@ git config --global user.email <Seu email aqui>
 - Utilizado após o git add, serve para realizar um comentário em uma modificação ou inclusão feita.
 - A flag -m indica que vamos adicionar uma mensagem para aquele commit.
 ##
+#### `git push`
+- Usado para enviar o conteúdo do repositório local para um repositório remoto.
+##
+####`git pull`
+- Usado para buscar e baixar conteúdo de repositórios remotos e fazer a atualização imediata ao repositório local para que os conteúdos sejam iguais.
