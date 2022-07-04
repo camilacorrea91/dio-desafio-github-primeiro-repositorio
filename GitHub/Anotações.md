@@ -45,5 +45,5 @@ git config --global user.email <Seu email aqui>
 #### `git push`
 - Usado para enviar o conteúdo do repositório local para um repositório remoto.
 ##
-####`git pull`
+#### `git pull`
 - Usado para buscar e baixar conteúdo de repositórios remotos e fazer a atualização imediata ao repositório local para que os conteúdos sejam iguais.
